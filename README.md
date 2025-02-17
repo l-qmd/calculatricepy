@@ -1,2 +1,3 @@
 # calculatricepy
-calculatrice Python
+calculatrice Python 
+projet en cours 🟠
