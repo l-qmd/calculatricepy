@@ -27,6 +27,7 @@ def effacer_ecran():
 root=tk.Tk()
 root.title("Calculatrice")
 root.geometry("300x275")
+root.iconbitmap("calculator.ico")
 text_resultat=tk.Text(root,height=2,width=116)
 text_resultat.grid(columnspan=5)
 btn_1=tk.Button(root,text="1",command= lambda:ajout_calcul(1),width = 5, font=('Arial'))
